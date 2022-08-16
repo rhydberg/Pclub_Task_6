@@ -1,0 +1,22 @@
+1) Input: 3
+Output: 8
+
+2)
+Input: 7
+Output: 32
+
+3)
+Input: 11
+Output: 80
+
+4)
+Input: 33
+Output: 640
+
+5)
+Input: 999999
+Output: 926713159
+
+6)
+Input: 999999
+Output: 926713159
